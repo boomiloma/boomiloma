@@ -5,7 +5,7 @@
  
 
 - 🔭 I’m currently working on Phnom Penh , Cambodia
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently working in  Flutter & GoLang
 - 👯 I’m looking to collaborate on other developers
 - ⚡ Fun fact I love to play cricket and volleyball.
 
